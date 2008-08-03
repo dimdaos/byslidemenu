@@ -11,7 +11,7 @@ var BySlideMenu = new Class({
 		elementHeight: 240,
 		autoSize: true,
 		duration: 'normal',
-		transition: Fx.Transitions.linear
+		transition: 'linear'
 	},
 	
 	initialize: function(containerId, options){
